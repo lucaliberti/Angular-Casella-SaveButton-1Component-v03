@@ -1,0 +1,12 @@
+#contenitore_principale {
+  background: lightblue;
+  border: 1px solid black;
+  margin: 3%;
+  padding: 4%
+}
+
+.elem_risultato {
+  background: rgba(7, 58, 75, 0.274);
+  border: 1px solid black;
+  padding-left: 10px;
+}
